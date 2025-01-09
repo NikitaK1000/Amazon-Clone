@@ -1,2 +1,2 @@
 # Amazon-Clone
-Clone of Amazon.
+Clone of Amazon Website.
